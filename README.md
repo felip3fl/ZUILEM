@@ -1,8 +1,8 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="170" align="center"></p>
 <p align="center">FL PYTHON</p>
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-e23237">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-b52e31">
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-4482b4">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-ffe262">
 </p>
 <p align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
@@ -13,7 +13,7 @@
 ## 📃 Descrição do projeto
 
 <p align="justify">
- Projeto em desenvolvimento para estudo a tecnologia do framework Angular. Seguindo todos os ensinamento do curso Desenvolvedor.io e outras fontes de conhecimento.
+ Projeto em desenvolvimento para estudo do Python. Seguindo todos os ensinamento do curso Desenvolvedor.io e outras fontes de conhecimento.
 
 
 
@@ -21,14 +21,14 @@
 
 ## :hammer: Projetos
 
-- `Angular 13`: 06 - Projeto Final
-- `Angular 13`: 05 - DAA
+- `Python`: Leitara do arquivo Excel
+- `Python`: Terminal
 
 <BR>
 
 ## 📁 Acesso ao projeto
 
-Todo código fonte se encontra na pasta meat-app-starter-master
+Todo código fonte se encontra na pasta raiz
 
 <BR>
 
