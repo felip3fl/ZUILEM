@@ -1,5 +1,5 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="170" align="center"></p>
-<h3 align="center">FL PYTHON</h3>
+<h3 align="center">PYTHON</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-4482b4">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-ffe262">
